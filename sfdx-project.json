@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "srisfdxmodule",
+    "default" : true,
+    "package" : "srisfdxmodule",
+    "versionName" : "srisfdxmodule",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "48.0",
+  "packageAliases" : {
+    "srisfdxmodule" : "0Ho2x000000TNEdCAO",
+    "srisfdxmodule@1.0.0.0" : "04t2x000001cM2BAAU"
+  }
+}
