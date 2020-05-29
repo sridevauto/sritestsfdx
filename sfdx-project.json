@@ -1,7 +1,13 @@
 {
   "packageDirectories" : [ {
-    "path" : "srisfdxmodule",
+    "path" : "ganjisfdx",
     "default" : true,
+    "package" : "ganjisfdx",
+    "versionName" : "ganjisfdx",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "srisfdxmodule",
+    "default" : false,
     "package" : "srisfdxmodule",
     "versionName" : "srisfdxmodule",
     "versionNumber" : "1.0.0.0"
@@ -11,6 +17,8 @@
   "sourceApiVersion" : "48.0",
   "packageAliases" : {
     "srisfdxmodule" : "0Ho2x000000TNEdCAO",
-    "srisfdxmodule@1.0.0.0" : "04t2x000001cM2BAAU"
+    "srisfdxmodule@1.0.0.0" : "04t2x000001cM2BAAU",
+    "ganjisfdx" : "0Ho2x000000TNQ7CAO",
+    "ganjisfdx@1.0.0.0" : "04t2x000002VccNAAS"
   }
 }
